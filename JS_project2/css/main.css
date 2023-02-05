@@ -37,7 +37,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:greenyellow;
+    background-color:lightblue;
     border-radius: 16px;
     padding-bottom: 16px;
     gap: 32px;
@@ -86,7 +86,7 @@ body {
 }
 
 .resume-left-section {
-    background-color: pink;
+    background-color: peachpuff;
     padding: 32px;
     border-radius: 16px;
     height: fit-content;
